@@ -1,7 +1,11 @@
+body {
+background-image: url("./images/kitchen.jpg");
+}
 h1 {
 text-align: center;
 }
 .recipe-list {
+background-color: white;
 width: 20%;
 padding: 10px;
 margin-left: 40%;
