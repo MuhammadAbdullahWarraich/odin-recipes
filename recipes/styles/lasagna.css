@@ -3,3 +3,9 @@ div.recipe-card
 background-color: darkolivegreen;
 border: 5px darkred solid;
 }
+h1, h2 {
+color: yellow;
+}
+p, ul, ol {
+color: white;
+}
