@@ -9,3 +9,11 @@ margin-top: 1%;
 margin-bottom: 1%;
 padding: 10px;
 }
+p, ul ,ol {
+font-family: sans-serif;
+letter-spacing: 1px;
+font-weight: 500;
+}
+h2 {
+letter-spacing: 1px;
+}
