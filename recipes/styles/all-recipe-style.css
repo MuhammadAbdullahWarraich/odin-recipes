@@ -15,5 +15,8 @@ letter-spacing: 1px;
 font-weight: 500;
 }
 h2 {
-letter-spacing: 1px;
+  letter-spacing: 1px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 5px;
 }
